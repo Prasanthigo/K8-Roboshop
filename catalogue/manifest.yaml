@@ -53,4 +53,4 @@ metadata:
   namespace: roboshop
 data:
   MONGO: "true"
-  MONGO_URL: "mongodb://monodb-service:27017/catalogue" #protocol//servicename:serviceport
+  MONGO_URL: "mongodb://mongodb-service:27017/catalogue" #protocol//servicename:serviceport
