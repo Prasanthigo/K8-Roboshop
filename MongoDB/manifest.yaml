@@ -29,7 +29,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: monodb-service
+  name: mongodb-service
   namespace: roboshop
 spec:
   selector:
